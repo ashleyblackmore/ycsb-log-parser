@@ -4,6 +4,8 @@ YCSB.
 It is designed to automate result capture and plotting for my honours thesis
 ( News for which is located at http://cloudproject.tumblr.com/ )
 
-Instructions and CLI interface forthcoming (once thesis is complete).
+This was made under crazy time pressure and is due for some heavy-duty refactoring.
 
-Requires matplotlib, scipy, and numpy
+Instructions and CLI interface forthcoming.
+
+Requires matplotlib, scipy, and numpy.
