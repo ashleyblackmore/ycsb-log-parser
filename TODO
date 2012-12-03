@@ -1,0 +1,4 @@
+basic:
+    more user interaction stuff, incl defaults for options
+style:
+    clean up variable initialisations
